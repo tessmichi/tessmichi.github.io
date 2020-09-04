@@ -4,7 +4,7 @@ description: >-
 theme: minima
 
 #email: your-email@example.com
-baseurl: "/catchall"
+baseurl: ""
 url: "https://www.github.com/tessmichi/tessmichi/github/io"
 twitter_username: tess_distefano
 github_username:  tessmichi
