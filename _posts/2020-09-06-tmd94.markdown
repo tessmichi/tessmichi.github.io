@@ -1,11 +1,9 @@
 ---
-layout: blog
+layout: post
 title:  "Googled Myself"
 date:   2020-09-03 19:30:00 -700
 categories: throwback
 ---
-
-# Thank you for the memories, internet
 
 Today I googled myself and it was amazing. I found the [first website I ever made](http://www.pages.drexel.edu/~tmd94/), for my first freshman term at Drexel.
 
