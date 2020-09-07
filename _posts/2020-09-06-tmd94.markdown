@@ -1,0 +1,12 @@
+---
+layout: blog
+title:  "Googled Myself"
+date:   2020-09-03 19:30:00 -700
+categories: throwback
+---
+
+# Thank you for the memories, internet
+
+Today I googled myself and it was amazing. I found the [first website I ever made](http://www.pages.drexel.edu/~tmd94/), for my first freshman term at Drexel.
+
+I also found some super great old photos of a younger me, and was reminded of some really cool past projects like my freshman design project - the Biomedical Sensing Device - and my senior design project - [Dancing with Drones](http://www.cci.drexel.edu/seniordesign/2016_2017/DancingDrones/DancingDroneProjectPage.html).
